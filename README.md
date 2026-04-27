@@ -1,6 +1,6 @@
 ## Monolith Labs
 Website is officially launched!
-Visit - https://sadmansamin21.github.io/monolith-labs
+Visit - https://sadmansamin21.github.io/monolith-labs.html
 
 ## Created by Sadman Samin
 Portfolio - https://sadmansamin21.github.io
